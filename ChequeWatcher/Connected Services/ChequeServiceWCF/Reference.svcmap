@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="d4942477-4b51-417a-8234-527e710018e1" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:50236/ChequeService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ChequeService.xsd" MetadataType="Schema" ID="0068b0de-3f62-443d-8538-08213fbf0758" SourceId="1" SourceUrl="http://localhost:50236/ChequeService.svc?xsd=xsd0" />
+    <MetadataFile FileName="ChequeService1.xsd" MetadataType="Schema" ID="f1f32a87-723a-4378-ab5a-35bd950c5613" SourceId="1" SourceUrl="http://localhost:50236/ChequeService.svc?xsd=xsd1" />
+    <MetadataFile FileName="ChequeService2.xsd" MetadataType="Schema" ID="a1065f2a-90fe-4f9a-923e-6a517b6771f6" SourceId="1" SourceUrl="http://localhost:50236/ChequeService.svc?xsd=xsd2" />
+    <MetadataFile FileName="ChequeService3.xsd" MetadataType="Schema" ID="26d63d4d-1e4d-4be2-8bfb-751d26a88b4f" SourceId="1" SourceUrl="http://localhost:50236/ChequeService.svc?xsd=xsd3" />
+    <MetadataFile FileName="ChequeService.wsdl" MetadataType="Wsdl" ID="f250a0d6-763c-4b33-857e-e133ea5b96fa" SourceId="1" SourceUrl="http://localhost:50236/ChequeService.svc?wsdl" />
+    <MetadataFile FileName="ChequeService.disco" MetadataType="Disco" ID="cb937043-1642-4ecf-9c6b-0e8a14db29c1" SourceId="1" SourceUrl="http://localhost:50236/ChequeService.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

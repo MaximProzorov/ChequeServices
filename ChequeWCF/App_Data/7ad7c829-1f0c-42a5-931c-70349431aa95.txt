@@ -1,0 +1,1 @@
+{"Id":"7ad7c829-1f0c-42a5-931c-70349431aa95","Number":"da","Summ":0.0,"Discount":0.0,"Articles":null}
